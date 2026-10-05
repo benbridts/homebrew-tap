@@ -2,8 +2,7 @@ cask "ndi-tools-core-suite" do
   version "latest"
   sha256 :no_check
 
-  url "https://downloads.ndi.tv/Tools/NDIToolsInstaller.pkg",
-      verified: "https://go.ndi.video/tools-for-mac"
+  url "https://downloads.ndi.tv/Tools/NDIToolsInstaller.pkg"
   name "NDI Core Suite"
   desc "The NDI Core Suite of tools."
   homepage "https://ndi.video/tools/ndi-core-suite/"
