@@ -35,9 +35,9 @@ cask "ndi-tools-core-suite" do
     # find /Library -iname '*newtek*'
     "/Library/Application Support/NewTek/NDI",
     # find ~/Library -iname '*newtek*'
-    "~/LibrarySaved Application State/com.newtek.Application-Mac-NDI-VirtualInput.savedState",
-    "~/LibrarySaved Application State/com.newtek.Test-Patterns-Mac-.savedState",
-    "~/LibraryPreferences/com.newtek.Test-Patterns-Mac-.plist",
-    "~/LibraryPreferences/com.newtek.Application-Mac-NDI-StudioMonitor.plist",
+    "~/Library/Saved Application State/com.newtek.Application-Mac-NDI-VirtualInput.savedState",
+    "~/Library/Saved Application State/com.newtek.Test-Patterns-Mac-.savedState",
+    "~/Library/Preferences/com.newtek.Test-Patterns-Mac-.plist",
+    "~/Library/Preferences/com.newtek.Application-Mac-NDI-StudioMonitor.plist",
   ]
 end
